@@ -17,3 +17,6 @@ Builds the app for production. By default, the build output will be placed at di
 npm run preview
 Used for previewing the build locally. This command should not be used for production.
 [Vite.js docs](https://vitejs.dev/guide/)
+
+Some screenshots to my working app:
+
