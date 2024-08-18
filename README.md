@@ -19,4 +19,5 @@ Used for previewing the build locally. This command should not be used for produ
 [Vite.js docs](https://vitejs.dev/guide/)
 
 Some screenshots to my working app:
+![Alt text](img1/example.png)
 
